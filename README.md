@@ -190,3 +190,6 @@ This repository serves as the official landing page for exe4j 9. The software is
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of exe4j 9 today!**
+
+---
+**Last updated:** 2026-11-08 16:29:28 UTC
