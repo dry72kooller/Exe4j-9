@@ -192,4 +192,4 @@ This repository serves as the official landing page for exe4j 9. The software is
 **Get the most recent version of exe4j 9 today!**
 
 ---
-**Last updated:** 2026-11-11 10:12:43 UTC
+**Last updated:** 2026-11-11 18:18:49 UTC
